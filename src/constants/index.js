@@ -53,7 +53,7 @@ export const dataList = [
     rating: 5,
     address: '32 Pawnee Street Butte',
     price: 2500,
-    coverSrc: "/images/places/house1lg.png",
+    coverSrc: "./images/places/house1lg.png",
   },
   {
     id: 2,
@@ -63,7 +63,7 @@ export const dataList = [
     address: '84 Woodland St. Cocoa',
     rating: 4,
     price: 1000,
-    coverSrc: "/images/places/house2lg.png",
+    coverSrc: "./images/places/house2lg.png",
   },
   {
     id: 3,
@@ -73,7 +73,7 @@ export const dataList = [
     address: '28 Westport Dr. Warminster',
     rating: 3,
     price: 2000,
-    coverSrc:"/images/places/house3lg.png",
+    coverSrc:"./images/places/house3lg.png",
   },
   {
     id: 4,
@@ -83,7 +83,7 @@ export const dataList = [
     address: '32 Pawnee Street Butte',
     rating: 1,
     price: 1800,
-    coverSrc: "/images/places/house4lg.png",
+    coverSrc: "./images/places/house4lg.png",
   },
   {
     id: 5,
@@ -93,7 +93,7 @@ export const dataList = [
     address:"45 wolf street",
     rating: 5,
     price: 2000,
-    coverSrc: "/images/places/house5lg.png",
+    coverSrc: "./images/places/house5lg.png",
   },
   {
     id: 6,
@@ -103,7 +103,7 @@ export const dataList = [
     category: "House",
     rating: 5,
     price: 3500,
-    coverSrc:"/images/places/house6lg.png",
+    coverSrc:"./images/places/house6lg.png",
   },
   {
     id: 7,
@@ -113,7 +113,7 @@ export const dataList = [
     rating: 2,
     address: '32 Pawnee Street Butte',
     price: 2200,
-    coverSrc: "/images/places/house7lg.png",
+    coverSrc: "./images/places/house7lg.png",
   },
   {
     id: 8,
@@ -124,7 +124,7 @@ export const dataList = [
     address: '28 Westport Dr. Warminster',
     rating: 1,
     price: 1900,
-    coverSrc:"/images/places/house8lg.png",
+    coverSrc:"./images/places/house8lg.png",
   },
   {
     id: 9,
@@ -134,7 +134,7 @@ export const dataList = [
     address: '32 Pawnee Street Butte',
     rating: 4,
     price: 2750,
-    coverSrc: "/images/places/house9lg.png",
+    coverSrc: "./images/places/house9lg.png",
   },
   {
     id: 10,
@@ -144,7 +144,7 @@ export const dataList = [
     country: "america",
     rating: 2,
     price: 4350,
-    coverSrc: "/images/places/house10lg.png",
+    coverSrc: "./images/places/house10lg.png",
   },
   {
     id: 11,
@@ -154,7 +154,7 @@ export const dataList = [
     country: "india",
     rating: 3,
     price: 3300,
-    coverSrc: "/images/places/house11lg.png",
+    coverSrc: "./images/places/house11lg.png",
   },
   {
     id: 12,
@@ -164,6 +164,6 @@ export const dataList = [
     address: '32 Pawnee Street Butte',
     rating: 2,
     price: 4100,
-    coverSrc: "/images/places/house12lg.png",
+    coverSrc: "./images/places/house12lg.png",
   },
 ];

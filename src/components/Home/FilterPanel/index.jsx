@@ -55,8 +55,7 @@ const FilterPanel = ({
           selectToggle={selectRating}
         />
       </div>
-      <Button variant="contained" onClick={ ()=>{stateCahnger(dataList)
-      }}>Reset</Button>
+      <Button variant="contained" onClick={ ()=>{stateCahnger(dataList)}}>Reset</Button>
     </div>
   );
 };
