@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/estate-app/static/css/main.91c718f5.css",
-    "main.js": "/estate-app/static/js/main.ed0c31d4.js",
+    "main.js": "/estate-app/static/js/main.af799776.js",
     "index.html": "/estate-app/index.html",
     "main.91c718f5.css.map": "/estate-app/static/css/main.91c718f5.css.map",
-    "main.ed0c31d4.js.map": "/estate-app/static/js/main.ed0c31d4.js.map"
+    "main.af799776.js.map": "/estate-app/static/js/main.af799776.js.map"
   },
   "entrypoints": [
     "static/css/main.91c718f5.css",
-    "static/js/main.ed0c31d4.js"
+    "static/js/main.af799776.js"
   ]
 }
